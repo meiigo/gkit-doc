@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Hello World",
   description: "博大可以稀释忧愁",
-  base: '/meiigo/',
+  base: '/gkit-doc/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
