@@ -8,4 +8,4 @@
     "docs:preview": "vitepress preview docs",
     "docs:serve": "vitepress serve docs --port 8080"
   }
-}
+} 
